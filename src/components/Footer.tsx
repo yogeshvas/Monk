@@ -4,7 +4,6 @@ import {TouchableOpacity} from 'react-native-gesture-handler';
 import {RNLauncherKitHelper} from 'react-native-launcher-kit';
 
 const Footer = ({navigation}: any) => {
- 
   return (
     <View style={styles.container}>
       <TouchableOpacity onPress={() => navigation.navigate('settings')}>
