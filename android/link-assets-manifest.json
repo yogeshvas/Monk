@@ -1,0 +1,77 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/Poppins-Black.ttf",
+      "sha1": "645e04c53c6b5b35bce654a811ebce16af8aa721"
+    },
+    {
+      "path": "src/assets/fonts/Poppins-Bold.ttf",
+      "sha1": "875cf0cecd647bcf22e79d633d868c1b1ec98dfa"
+    },
+    {
+      "path": "src/assets/fonts/Poppins-ExtraBold.ttf",
+      "sha1": "4b5c0750f073abd576413a0898d3b95adaf199c8"
+    },
+    {
+      "path": "src/assets/fonts/Poppins-ExtraLight.ttf",
+      "sha1": "85af6582a7e6155917c605f9d3fed68c02b23b06"
+    },
+    {
+      "path": "src/assets/fonts/Poppins-Light.ttf",
+      "sha1": "e247a92158e112f8bf7b638c8d95381d66b00dbb"
+    },
+    {
+      "path": "src/assets/fonts/Poppins-Medium.ttf",
+      "sha1": "283f21b44efbdbf276ba802be2d949a36bbc4233"
+    },
+    {
+      "path": "src/assets/fonts/Poppins-Regular.ttf",
+      "sha1": "fdd3002e7d814ee47c1c1b8487c72c6bbb3a2d00"
+    },
+    {
+      "path": "src/assets/fonts/Poppins-SemiBold.ttf",
+      "sha1": "8a4ace9392d06bcb7f8ea2f5169b07e4c383a90d"
+    },
+    {
+      "path": "src/assets/fonts/Poppins-Thin.ttf",
+      "sha1": "09ba4dcd5509c8085bf88c665dcc51cbdfced27b"
+    },
+    {
+      "path": "src/assets/fonts/RobotoSlab-Black.ttf",
+      "sha1": "f3b1bdd1676dff204f659634c1a29c109cbc238a"
+    },
+    {
+      "path": "src/assets/fonts/RobotoSlab-Bold.ttf",
+      "sha1": "e1e5ce44825aa846d38fb41a33cfc070acfd00f5"
+    },
+    {
+      "path": "src/assets/fonts/RobotoSlab-ExtraBold.ttf",
+      "sha1": "925e7a6676465c203874bd04020338a664967c8a"
+    },
+    {
+      "path": "src/assets/fonts/RobotoSlab-ExtraLight.ttf",
+      "sha1": "0b76c8b012f4406239aeb97fabe5e15e66818337"
+    },
+    {
+      "path": "src/assets/fonts/RobotoSlab-Light.ttf",
+      "sha1": "e66c270226ac03201aba70d27cec7e4680f2aeab"
+    },
+    {
+      "path": "src/assets/fonts/RobotoSlab-Medium.ttf",
+      "sha1": "25663f37e1c85471b95cab8c5dd06948388b0bd3"
+    },
+    {
+      "path": "src/assets/fonts/RobotoSlab-Regular.ttf",
+      "sha1": "a596c45dd9bf15341eefb7dde7fc8422a5dc7056"
+    },
+    {
+      "path": "src/assets/fonts/RobotoSlab-SemiBold.ttf",
+      "sha1": "bd19091f6cab3369e9ad67f8d8f2dd79936a6c07"
+    },
+    {
+      "path": "src/assets/fonts/RobotoSlab-Thin.ttf",
+      "sha1": "2a1ccd29e72aeefc8cba07576111fbf54b716496"
+    }
+  ]
+}
