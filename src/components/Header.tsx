@@ -10,7 +10,10 @@ const Header = () => {
   useEffect(() => {
     const fetchBatteryStatus = async () => {
       const batteryStatus = await RNLauncherKitHelper.getBatteryStatus();
-      setBattery(batteryStatus);
+      setBattery({
+        level: Math.round(batteryStatus.level), // Ensure the battery level is an integer
+        isCharging: batteryStatus.isCharging,
+      });
     };
     fetchBatteryStatus();
 
@@ -23,7 +26,7 @@ const Header = () => {
     return () => clearInterval(intervalId);
   }, []);
 
-  const getTimeOfDayImage = (hour: any) => {
+  const getTimeOfDayImage = hour => {
     if (hour >= 5 && hour < 12) {
       return require('../assets/images/sun.png');
     } else if (hour >= 12 && hour < 18) {
